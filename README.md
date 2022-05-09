@@ -7,5 +7,8 @@ https://github.com/rodrigorgtic/gameplay-nlw-together
 
 https://www.figma.com/file/0kv33XYjvOgvKGKHBaiR07/GamePlay---NLW-Together?node-id=58913%3A83
 
+Onde parei
+https://youtu.be/iWN6PRTEsCI?t=6323
+
 ## Para iniciar
 - expo start
